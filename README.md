@@ -10,8 +10,7 @@ Languages:HTML,CSS,JS
 
 📫 Let's Connect!
 Find me on LinkedIn[ https://www.linkedin.com/in/dinesh-murugan-din518/ ]
-my personal portfolio [https://dineshmurugan.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio
-]
+my personal portfolio [bit.ly/dineshmurugangit]
 
 Let's collaborate and build something amazing together! 😊
 
